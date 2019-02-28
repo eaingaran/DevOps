@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 echo "Updating all packages..."
 echo ""
 echo "Installing git..."
