@@ -14,4 +14,3 @@ git config --global colour.status auto
 git config --global colour.interactive auto
 git config --global colour.diff auto
 echo "git configured successfully..."
-read -n 1 -s -r -p "Press any key to continue"
